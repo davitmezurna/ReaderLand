@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "8716399544",
+    "project_id": "appforbusiness-b5aca",
+    "storage_bucket": "appforbusiness-b5aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8716399544:android:5b7c64c3f7c788e106554d",
+        "android_client_info": {
+          "package_name": "com.example.businessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8716399544-uosmnrgdl3s1uf1ft2frdk2e5u9btjn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokg1FlgGFGh0CJUufI6svSkjDa_ZhQVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8716399544-uosmnrgdl3s1uf1ft2frdk2e5u9btjn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8716399544:android:02007c75ef4c744806554d",
+        "android_client_info": {
+          "package_name": "com.example.readerlandapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8716399544-uosmnrgdl3s1uf1ft2frdk2e5u9btjn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokg1FlgGFGh0CJUufI6svSkjDa_ZhQVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8716399544-uosmnrgdl3s1uf1ft2frdk2e5u9btjn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

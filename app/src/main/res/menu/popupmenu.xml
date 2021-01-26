@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="აეროპორტის დასახლება(ქვემო ალექსეევკა)"/>
+    <item android:title="ავლაბარი"/>
+    <item android:title="გლდანი(გლდანულა)"/>
+    <item android:title="დიდი დიღომი"/>
+    <item android:title="დიდუბე(ვაგზალი , წერეთელი , დიდუბე)"/>
+    <item android:title="დიღმის მასივი"/>
+    <item android:title="დიღომი"/>
+    <item android:title="ვაკე(წყნეთი)"/>
+    <item android:title="ვარკეთილი-ვაზისუბანი"/>
+    <item android:title="ვერა"/>
+    <item android:title="ზაჰესი"/>
+    <item android:title="თემქა"/>
+    <item android:title="ისანი-სამგორი"/>
+    <item android:title="კრწანისი"/>
+    <item android:title="ლილო"/>
+    <item android:title="მთაწმინდა(სოლოლაკი)"/>
+    <item android:title="ნაძალადევი(ლოტკინი, ნახალოვკა)"/>
+    <item android:title="ნუცუბიძე"/>
+    <item android:title="ორხევი"/>
+    <item android:title="ოქროყანა ,შინდისი, კიკეთი, ტაბახმელა, კოჯორი"/>
+    <item android:title="საბურთალო"/>
+    <item android:title="სანზონა"/>
+    <item android:title="სოფელი დიღომი-ვაშლიჯვარი"/>
+    <item android:title="ჩუღურეთი"/>
+</menu>
